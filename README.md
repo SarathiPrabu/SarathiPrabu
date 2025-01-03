@@ -1,30 +1,17 @@
-Hi there! 👋 I'm Sarathi
-A Full Stack Developer with expertise in the MERN stack, Python for machine learning, and a growing interest in financial technologies. I'm diving into C++ for Quant trading application development.
+### About Me 👋  
 
-What I Do 🚀
+Hi, I'm **Sarathi**, a passionate software developer diving deep into **C++ (C++11/14/17/20/23)** for high-performance and system-level programming. My focus is on **Quant trading** and **financial technologies**, leveraging advanced C++ features to build robust, efficient solutions.
 
-Web Development: Create dynamic and responsive web apps with MongoDB, Express.js, React, and Node.js.
+### What I Do 🚀  
+- **C++ Development**: Exploring modern C++ standards to design and implement high-performance applications.  
+- **Quant Trading**: Learning and applying financial algorithms for trading systems.  
 
-Machine Learning: Utilize Python for machine learning models in academic projects.
+### Looking For 👥  
+- **C++ Collaboration**: Connecting with professionals for guidance and hands-on learning.  
+- **Projects**: Opportunities in financial tech or performance-critical applications.  
 
-Quant Trading: Learning C++ to develop Quant trading applications.
+### Let's Connect 👥  
+- 📧 Email: **sarathiprabum@gmail.com**  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarathi-prabu-mohan-20347456)  
 
-I’m currently learning 🌱
-
-C++: Focused on system-level programming for financial technology applications.
-
-FinTech: Exploring Quant trading to enhance my expertise in financial technologies.
-
-Looking For 👥
-
-C++ Projects: Beginner-friendly opportunities to learn and grow.
-
-Collaboration: Joining forces with developers and mentors in Quant trading and FinTech.
-
-Let's Connect 👥
-
--📧 Email: sarathiprabum@gmail.com
-
--💼 LinkedIn:  www.linkedin.com/in/sarathi-prabu-mohan-20347456
-
-I'm keen to contribute to projects and collaborate with the developer community. Reach out for collaborations or if you have a project in mind!
+I'm eager to collaborate on impactful projects and learn from industry experts. Let's innovate together!  
