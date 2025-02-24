@@ -1,17 +1,18 @@
 ### About Me 👋  
 
-Hi, I'm **Sarathi**, a passionate software developer diving deep into **C++ (C++11/14/17/20/23)** for high-performance and system-level programming. My focus is on **Quant trading** and **financial technologies**, leveraging advanced C++ features to build robust, efficient solutions.
+Hi, I'm a passionate software developer who loves solving complex problems and building high-performance, scalable systems. I thrive on designing efficient solutions, optimizing performance, and exploring new technologies to make an impact.  
 
-### What I Do 🚀  
-- **C++ Development**: Exploring modern C++ standards to design and implement high-performance applications.  
-- **Quant Trading**: Learning and applying financial algorithms for trading systems.  
+#### What I Do 
+- **Software Development**: Designing and implementing robust, scalable applications across different domains.  
+- **Systems & Performance Engineering**: Optimizing software for efficiency, reliability, and speed.  
+- **Financial & Tech Innovations**: Exploring algorithmic problem-solving, financial technologies, and mission-critical software.  
 
-### Looking For 👥  
-- **C++ Collaboration**: Connecting with professionals for guidance and hands-on learning.  
-- **Projects**: Opportunities in financial tech or performance-critical applications.  
+#### Looking For
+- **Collaborations**: Connecting with developers, engineers, and researchers to build innovative solutions.  
+- **Challenging Projects**: Open to working on impactful projects—whether in finance, gaming, networking, or beyond.  
 
-### Let's Connect 👥  
-- 📧 Email: **sarathiprabum@gmail.com**  
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarathi-prabu-mohan-20347456)  
+#### Let's Connect  
+- Email: **sarathiprabum@gmail.com**  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarathi-prabu-mohan-20347456)  
 
-I'm eager to collaborate on impactful projects and learn from industry experts. Let's innovate together!  
+Always eager to learn, collaborate, and contribute to meaningful projects. Let’s build something amazing together! 🚀
